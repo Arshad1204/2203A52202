@@ -7,7 +7,7 @@ Repository for my Artificial intelligence and machine learning Lab sessions
 
 [LAB-02](https://github.com/Arshad1204/2203A52202/blob/main/AIML%20LAB%2002.ipynb)
 
-[LAB-03y](https://github.com/Arshad1204/2203A52202/blob/main/AIML-LAB03.ipynb)
+[LAB-03](https://github.com/Arshad1204/2203A52202/blob/main/AIML-LAB03.ipynb)
 
 #STATML
 
