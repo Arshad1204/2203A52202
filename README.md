@@ -45,6 +45,6 @@ Repository for my Artificial intelligence and machine learning Lab sessions
 
 [LAB-10](https://github.com/Arshad1204/2203A52202/blob/main/StatMl%20Lab10.ipynb)
 
-#AIML PROJECT\
+#AIML PROJECT
 
 https://github.com/Arshad1204/AIML_PROJECT/blob/main/AI_ML_PROJECT_DOC_2202.docx
